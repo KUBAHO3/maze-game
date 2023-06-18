@@ -26,7 +26,7 @@ export default function Home() {
       </div>
       <div id="view">
         <div id="mazeContainer">
-          <canvas id="mazeCanvas" class="border" height="1100" width="1100"></canvas>
+          
         </div>
       </div>
     </div>
